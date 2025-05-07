@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/burgerking/static/css/main.89179f07.css",
+    "main.js": "/burgerking/static/js/main.8fb09f7b.js",
+    "static/media/burgerImg.jpg": "/burgerking/static/media/burgerImg.0accaf359a6329659255.jpg",
+    "static/media/ecommerce.jpg": "/burgerking/static/media/ecommerce.07872bfc95377c29d5f4.jpg",
+    "static/media/profileImg.jpg": "/burgerking/static/media/profileImg.7f52c7c755ad65b1ba2e.jpg",
+    "static/media/bestOne.jpg": "/burgerking/static/media/bestOne.d967dd07d5256a3fbbbb.jpg",
+    "index.html": "/burgerking/index.html",
+    "main.89179f07.css.map": "/burgerking/static/css/main.89179f07.css.map",
+    "main.8fb09f7b.js.map": "/burgerking/static/js/main.8fb09f7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89179f07.css",
+    "static/js/main.8fb09f7b.js"
+  ]
+}
